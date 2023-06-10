@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.categories,
+.tasks {
+    margin-bottom: 20px;
+}
+
+.categories h2,
+.tasks h2 {
+    margin-bottom: 5px;
+}
+
+form {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+input[type="text"],
+select {
+    flex: 1;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.category-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.category-box h3 {
+    margin-top: 0;
+}
+
+.category-box .task-list {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+.category-box .task-list li {
+    margin-bottom: 5px;
+}

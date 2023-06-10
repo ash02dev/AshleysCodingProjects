@@ -1,0 +1,1 @@
+I need to build to-do list application with html, css, and javascript in VS code. I need to be able to create new items, delete items, remove tasks, change the order of tasks, categorize items, and color code items. I'll need add task, delete task, and edit task buttons. I'll need to add, delete, and edit the categories. The tasks should be listed in boxes based on category.
